@@ -2,9 +2,7 @@
 
 ### 3.1. ANTECEDENTES
 
-Por ser este un estudio que se desarrolla sobre un problema local y específico no encontramos investigaciones aplicadas a la misma 
-problemática que aquí abordamos, sin embargo si mencionaremos algunas investigaciones que presentan conceptos genéricos y/o relacionados 
-y de los cuales nos apoyamos en esta investigación. A continuación presentamos las fichas técnicas de tales investigaciones.
+Por ser este un estudio que se desarrolla sobre un problema específico no encontramos investigaciones aplicadas a la misma problemática que aquí abordamos, sin embargo, si mencionaremos algunas investigaciones que presentan conceptos genéricos y/o relacionados y de los cuales nos apoyamos en esta investigación. A continuación, presentamos las fichas técnicas de tales investigaciones.
 
 | | |
 | ------ | ------ |
