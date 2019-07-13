@@ -22,4 +22,4 @@ Para la gestión y desarrollo de ambas soluciones se aplican conceptos SCRUM y D
 ### Documentación
 ***
 
-El informe completo en: https://cesaraltame.github.io/tesis/
+El informe completo en: https://cesaraltame.github.io/MonitoreoNotificadoresGPS/
